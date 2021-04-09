@@ -216,3 +216,16 @@ span
     color: black;
 }
 
+@media (max-width: 48em)
+{
+    .headeris h1, p, a
+    {
+        padding-left: 20px;
+    }
+    
+    .headeris a
+    {
+        margin-left: 20px;
+    }
+}
+
